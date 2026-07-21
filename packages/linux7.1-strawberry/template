@@ -1,5 +1,5 @@
-# Template file for 'linux6.14-pipa'
-pkgname=linux6.15-pipa
+# Template file for 'linux7.1-strawberry-pipa'
+pkgname=linux7.1-strawberry-pipa
 version=7.1.2
 revision=1
 short_desc="Linux kernel and modules (${version%.*} series for Xiaomi Pad 6)"
