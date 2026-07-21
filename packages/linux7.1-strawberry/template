@@ -23,7 +23,7 @@ preserve=yes
 hostmakedepends="tar xz bc elfutils-devel flex gmp-devel kmod libmpc-devel
  pkg-config openssl-devel perl uboot-mkimage cpio pahole python3 zstd"
 
-_localversion="sm8250-adomerle"
+_localversion="pipa-strawberry-void"
 _kernver="${version}-${_localversion}"
 triggers="kernel-hooks"
 kernel_hooks_version="${_kernver}"
